@@ -20,7 +20,7 @@ curl 'http://127.0.0.1:8000/api/bio-events?date_from=2026-01-01&date_to=2026-12-
 
 This repo now includes a static entrypoint (`index.html`) and generated dataset (`data/bio_events.json`) so the service is queryable on GitHub Pages without a Python server. The root Pages files are the source of truth; `static/` mirrors them for the local Python server. The browser first tries `/api/bio-events` for local/API deployments and automatically falls back to the static JSON file on Pages.
 
-A GitHub Actions workflow refreshes the static dataset from ClinicalTrials.gov on pushes, on a daily schedule, or manually via `workflow_dispatch`. If the live API is unavailable during a build, the workflow keeps publishing the curated public-source snapshot with source links.
+A GitHub Actions workflow refreshes the static dataset from ClinicalTrials.gov on pushes, on a daily schedule, or manually via `workflow_dispatch`. If the live API is unavailable during a build, the workflow keeps publishing the curated public-source snapshot with source links. A separate `Deploy GitHub Pages` workflow builds a minimal `_site` artifact (`index.html`, `app.js`, and `data/bio_events.json`) and deploys it with GitHub Pages Actions on pushes to `main`/`master` or manual dispatch.
 
 ## Data policy
 
