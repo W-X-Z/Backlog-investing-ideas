@@ -1,0 +1,6 @@
+company_name,ticker,market,aliases
+Moderna,MRNA,NASDAQ,"ModernaTX;Moderna, Inc."
+BioNTech,BNTX,NASDAQ,"BioNTech SE;BioNTech RNA Pharmaceuticals GmbH"
+Gilead Sciences,GILD,NASDAQ,"Gilead;Gilead Sciences, Inc."
+Pfizer,PFE,NYSE,"Pfizer Inc.;Pfizer"
+Eli Lilly,LLY,NYSE,"Eli Lilly and Company;Lilly"

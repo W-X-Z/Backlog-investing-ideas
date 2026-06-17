@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Bio Event Calendar</title>
+  <style>
+    body{font-family:system-ui,-apple-system,Segoe UI,sans-serif;margin:0;background:#f6f8fb;color:#172033}header{background:#101828;color:white;padding:24px 32px}main{padding:24px 32px}.filters,.card{background:white;border:1px solid #e4e7ec;border-radius:14px;padding:16px;margin-bottom:16px;box-shadow:0 1px 2px #0001}.filters{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px}label{font-size:12px;font-weight:700;color:#475467}input,select,button{width:100%;box-sizing:border-box;padding:10px;border:1px solid #d0d5dd;border-radius:10px}button{background:#155eef;color:white;font-weight:700;cursor:pointer}.event{display:grid;grid-template-columns:140px 1fr 90px;gap:12px;align-items:start}.date{font-weight:800;color:#155eef}.badge{display:inline-block;padding:4px 8px;border-radius:999px;background:#eef4ff;color:#155eef;font-size:12px;font-weight:700}.muted{color:#667085;font-size:13px}.source{color:#155eef;text-decoration:none}.notice{background:#fffaeb;border-color:#fedf89}#meta{margin-top:8px;color:#d0d5dd;font-size:13px}
+  </style>
+</head>
+<body>
+  <header>
+    <h1>바이오 이벤트 캘린더</h1>
+    <p>공식 공개 데이터 기반 투자 참고용 이벤트입니다. 매수/매도 추천이 아닙니다.</p>
+    <div id="meta">데이터 로딩 중...</div>
+  </header>
+  <main>
+    <section class="filters">
+      <div><label>시작일</label><input id="date_from" type="date" value="2026-01-01"></div>
+      <div><label>종료일</label><input id="date_to" type="date" value="2026-12-31"></div>
+      <div><label>티커</label><input id="ticker" placeholder="MRNA"></div>
+      <div><label>시장</label><input id="market" placeholder="NASDAQ"></div>
+      <div><label>유형</label><select id="event_type"><option value="">전체</option><option>CLINICAL_PRIMARY_COMPLETION</option><option>CLINICAL_STUDY_COMPLETION</option><option>FDA_RECALL</option><option>PATENT_EXPIRY</option></select></div>
+      <div><label>신뢰도</label><select id="confidence_level"><option value="">A/B 기본</option><option>A</option><option>B</option><option>C</option></select></div>
+      <div><label>&nbsp;</label><button id="load">조회</button></div>
+    </section>
+    <section class="card notice"><strong>주의:</strong> ClinicalTrials.gov 완료 예정일은 결과 발표일이 아니며, 기업/티커 매핑은 검수가 필요할 수 있습니다.</section>
+    <section id="events">
+      <article class="card event">
+        <div class="date">2026-08-15</div>
+        <div>
+          <div><span class="badge">CLINICAL_PRIMARY_COMPLETION</span> <span class="badge">신뢰도 A</span></div>
+          <h3>Moderna의 mRNA-1283 Phase 3 주요 완료 예정일입니다.</h3>
+          <p class="muted">Moderna (MRNA, NASDAQ) · mRNA-1283 · COVID-19 · Phase 3</p>
+          <a class="source" href="https://clinicaltrials.gov/study/NCT05815498" target="_blank" rel="noreferrer">ClinicalTrials.gov 원천 보기</a>
+        </div>
+        <div class="muted">정적 예시<br>2026-06-17</div>
+      </article>
+      <article class="card event">
+        <div class="date">2026-09-30</div>
+        <div>
+          <div><span class="badge">CLINICAL_STUDY_COMPLETION</span> <span class="badge">신뢰도 A</span></div>
+          <h3>Gilead Sciences의 Lenacapavir Phase 3 최종 완료 예정일입니다.</h3>
+          <p class="muted">Gilead Sciences (GILD, NASDAQ) · Lenacapavir · HIV Prevention · Phase 3</p>
+          <a class="source" href="https://clinicaltrials.gov/study/NCT04994509" target="_blank" rel="noreferrer">ClinicalTrials.gov 원천 보기</a>
+        </div>
+        <div class="muted">정적 예시<br>2026-06-17</div>
+      </article>
+    </section>
+  </main>
+  <script src="app.js"></script>
+</body>
+</html>
