@@ -19,7 +19,7 @@ jobs:
         with:
           python-version: "3.12"
       - name: Build static ClinicalTrials.gov data
-        run: python -m bio_events.build_static_data
+        run: python -m bio_events.static_data_builder
       - name: Commit generated data
         uses: stefanzweifel/git-auto-commit-action@v5
         with:

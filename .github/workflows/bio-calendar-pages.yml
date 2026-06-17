@@ -23,7 +23,7 @@ jobs:
         with:
           python-version: "3.12"
       - name: Refresh static bio event data
-        run: python -m bio_events.build_static_data
+        run: python -m bio_events.static_data_builder
       - name: Build Pages artifact
         run: |
           mkdir -p _site/data
