@@ -8,8 +8,7 @@ from urllib.parse import parse_qs, urlparse
 
 from .store import query_events
 
-# Local server intentionally serves the mirrored static/ assets; GitHub Pages serves root assets.
-STATIC = Path(__file__).resolve().parents[1] / "static"
+ROOT = Path(__file__).resolve().parents[1]
 
 class Handler(BaseHTTPRequestHandler):
     def do_GET(self) -> None:
@@ -19,13 +18,13 @@ class Handler(BaseHTTPRequestHandler):
             self._json({"events": query_events(filters)})
             return
         if parsed.path in ("/", "/index.html"):
-            self._file(STATIC / "index.html", "text/html; charset=utf-8")
+            self._file(ROOT / "index.html", "text/html; charset=utf-8")
             return
         if parsed.path == "/app.js":
-            self._file(STATIC / "app.js", "application/javascript; charset=utf-8")
+            self._file(ROOT / "app.js", "application/javascript; charset=utf-8")
             return
         if parsed.path == "/data/bio_events.json":
-            data_path = Path(__file__).resolve().parents[1] / "data" / "bio_events.json"
+            data_path = ROOT / "data" / "bio_events.json"
             self._file(data_path, "application/json; charset=utf-8")
             return
         self.send_error(404)
