@@ -9,6 +9,7 @@ from urllib.parse import parse_qs, urlparse
 from .store import query_events
 
 ROOT = Path(__file__).resolve().parents[1]
+PAGES = ROOT / "pages"
 
 class Handler(BaseHTTPRequestHandler):
     def do_GET(self) -> None:
@@ -18,13 +19,13 @@ class Handler(BaseHTTPRequestHandler):
             self._json({"events": query_events(filters)})
             return
         if parsed.path in ("/", "/index.html"):
-            self._file(ROOT / "index.html", "text/html; charset=utf-8")
+            self._file(PAGES / "index.html", "text/html; charset=utf-8")
             return
         if parsed.path == "/app.js":
-            self._file(ROOT / "app.js", "application/javascript; charset=utf-8")
+            self._file(PAGES / "app.js", "application/javascript; charset=utf-8")
             return
         if parsed.path == "/data/bio_events.json":
-            data_path = ROOT / "data" / "bio_events.json"
+            data_path = PAGES / "data" / "bio_events.json"
             self._file(data_path, "application/json; charset=utf-8")
             return
         self.send_error(404)

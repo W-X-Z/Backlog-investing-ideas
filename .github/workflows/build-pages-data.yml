@@ -24,4 +24,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: Update generated bio event data
-          file_pattern: data/bio_events.json
+          file_pattern: pages/data/bio_events.json

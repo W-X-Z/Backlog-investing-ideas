@@ -11,7 +11,7 @@ from .store import query_events, upsert_events
 
 ROOT = Path(__file__).resolve().parents[1]
 DB_PATH = ROOT / "data" / "bio_events.sqlite3"
-JSON_PATH = ROOT / "data" / "bio_events.json"
+JSON_PATH = ROOT / "pages" / "data" / "bio_events.json"
 
 
 def build(limit_per_company: int = 50, use_seed_fallback: bool = True) -> dict:

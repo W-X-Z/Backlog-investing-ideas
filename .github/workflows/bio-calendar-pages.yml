@@ -1,8 +1,9 @@
-name: Deploy GitHub Pages
+name: Bio Calendar Pages
 
 on:
   workflow_dispatch:
   push:
+    branches: [main, master]
 
 permissions:
   contents: read
@@ -26,8 +27,8 @@ jobs:
       - name: Build Pages artifact
         run: |
           mkdir -p _site/data
-          cp index.html app.js _site/
-          cp data/bio_events.json _site/data/bio_events.json
+          cp pages/index.html pages/app.js _site/
+          cp pages/data/bio_events.json _site/data/bio_events.json
           touch _site/.nojekyll
       - uses: actions/upload-pages-artifact@v3
         with:

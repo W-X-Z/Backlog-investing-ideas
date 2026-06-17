@@ -4,7 +4,7 @@ Public-data based bio event calendar for investment research. The app collects m
 
 ## GitHub Pages deployment
 
-The root `index.html`, `app.js`, and `data/bio_events.json` files are the GitHub Pages site. If the live URL shows a README page, Pages is still serving an older branch artifact without `index.html`; rerun the `Deploy GitHub Pages` workflow or merge/push this branch so `_site/index.html` is deployed. The workflow builds a minimal `_site` artifact from those files and deploys it on every branch push or manual dispatch.
+The `pages/index.html`, `pages/app.js`, and `pages/data/bio_events.json` files are the GitHub Pages site artifact source. If the live URL shows a README page, Pages is still serving an older branch artifact without `index.html`; rerun the `Deploy GitHub Pages` workflow or merge/push this branch so `_site/index.html` is deployed. The workflow builds a minimal `_site` artifact from those files and deploys it on every branch push or manual dispatch.
 
 ## Local API quick start
 
