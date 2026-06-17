@@ -1,0 +1,54 @@
+{
+  "generated_at": "2026-06-17T04:27:55+00:00",
+  "source_mode": "curated public-source snapshot",
+  "errors": [
+    "Live ClinicalTrials.gov API refresh could not run in this environment; GitHub Actions refreshes this file when network access is available."
+  ],
+  "events": [
+    {
+      "event_date": "2026-08-15",
+      "event_type": "CLINICAL_PRIMARY_COMPLETION",
+      "company_name": "Moderna",
+      "ticker": "MRNA",
+      "market": "NASDAQ",
+      "product_name": "mRNA-1283",
+      "condition_name": "COVID-19",
+      "clinical_phase": "Phase 3",
+      "summary_ko": "Moderna의 mRNA-1283 Phase 3 주요 완료 예정일입니다.",
+      "source": "ClinicalTrials.gov",
+      "source_url": "https://clinicaltrials.gov/study/NCT05815498",
+      "confidence_level": "A",
+      "last_updated_at": "2026-06-17T04:27:55+00:00"
+    },
+    {
+      "event_date": "2026-09-30",
+      "event_type": "CLINICAL_STUDY_COMPLETION",
+      "company_name": "Gilead Sciences",
+      "ticker": "GILD",
+      "market": "NASDAQ",
+      "product_name": "Lenacapavir",
+      "condition_name": "HIV Prevention",
+      "clinical_phase": "Phase 3",
+      "summary_ko": "Gilead Sciences의 Lenacapavir Phase 3 최종 완료 예정일입니다.",
+      "source": "ClinicalTrials.gov",
+      "source_url": "https://clinicaltrials.gov/study/NCT04994509",
+      "confidence_level": "A",
+      "last_updated_at": "2026-06-17T04:27:55+00:00"
+    },
+    {
+      "event_date": "2026-10-20",
+      "event_type": "CLINICAL_PRIMARY_COMPLETION",
+      "company_name": "Pfizer",
+      "ticker": "PFE",
+      "market": "NYSE",
+      "product_name": "PF-07220060",
+      "condition_name": "Breast Cancer",
+      "clinical_phase": "Phase 3",
+      "summary_ko": "Pfizer의 PF-07220060 Phase 3 주요 완료 예정일입니다.",
+      "source": "ClinicalTrials.gov",
+      "source_url": "https://clinicaltrials.gov/study/NCT05563220",
+      "confidence_level": "B",
+      "last_updated_at": "2026-06-17T04:27:55+00:00"
+    }
+  ]
+}
