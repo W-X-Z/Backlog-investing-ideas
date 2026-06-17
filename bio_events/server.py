@@ -8,6 +8,7 @@ from urllib.parse import parse_qs, urlparse
 
 from .store import query_events
 
+# Local server intentionally serves the mirrored static/ assets; GitHub Pages serves root assets.
 STATIC = Path(__file__).resolve().parents[1] / "static"
 
 class Handler(BaseHTTPRequestHandler):

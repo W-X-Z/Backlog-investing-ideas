@@ -1,3 +1,4 @@
+// Bio Event Calendar client: API-first locally, static JSON fallback on GitHub Pages.
 const api = {
   async load(params) {
     const query = new URLSearchParams(params).toString();
