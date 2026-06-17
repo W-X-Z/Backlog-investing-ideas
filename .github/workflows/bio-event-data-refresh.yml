@@ -1,0 +1,27 @@
+name: Build bio event data
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 2 * * *"
+  push:
+    branches: [main, master]
+
+permissions:
+  contents: write
+
+jobs:
+  build-data:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Build static ClinicalTrials.gov data
+        run: python -m bio_events.static_data_builder
+      - name: Commit generated data
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Update generated bio event data
+          file_pattern: pages/data/bio_events.json
