@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T09:05:18+00:00",
+  "generated_at": "2026-08-30T08:20:34+00:00",
   "source_mode": "ClinicalTrials.gov API",
   "errors": [],
   "events": [
@@ -16,7 +16,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT00507026",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:34+00:00"
     },
     {
       "event_date": "2008-10-14",
@@ -31,7 +31,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT00507026",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:34+00:00"
     },
     {
       "event_date": "2013-03-15",
@@ -46,7 +46,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT01740791",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2013-03-20",
@@ -61,7 +61,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT01515306",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:34+00:00"
     },
     {
       "event_date": "2013-09-23",
@@ -76,7 +76,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT01732211",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:34+00:00"
     },
     {
       "event_date": "2013-09-23",
@@ -91,7 +91,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT01732211",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:34+00:00"
     },
     {
       "event_date": "2014-01-24",
@@ -106,7 +106,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT01740791",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2015-01-07",
@@ -121,7 +121,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT01962441",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2015-12-15",
@@ -136,7 +136,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT02509624",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2015-12-15",
@@ -151,7 +151,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT02509624",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2015-12-15",
@@ -166,7 +166,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT01597193",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:34+00:00"
     },
     {
       "event_date": "2016-03-23",
@@ -181,7 +181,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT02346721",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2016-03-30",
@@ -196,7 +196,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT02472886",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2016-05-13",
@@ -211,7 +211,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT01980875",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2016-05-13",
@@ -226,7 +226,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT01980875",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2016-05-30",
@@ -241,7 +241,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT01980888",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2016-06-15",
@@ -256,7 +256,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT02346721",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2016-06-16",
@@ -271,7 +271,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT01980888",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2016-06-30",
@@ -286,7 +286,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT02472886",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2016-07-02",
@@ -301,7 +301,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT02300103",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2016-07-07",
@@ -316,7 +316,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT01962441",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2016-09-15",
@@ -331,7 +331,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT02300103",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2017-01-04",
@@ -346,7 +346,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT02613871",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2017-02-14",
@@ -361,7 +361,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT02035956",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2017-08-03",
@@ -376,7 +376,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT02513550",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:34+00:00"
     },
     {
       "event_date": "2017-09-14",
@@ -391,7 +391,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT01799889",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2017-12-28",
@@ -406,7 +406,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT02739360",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2017-12-28",
@@ -421,7 +421,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT02739360",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2018-01-21",
@@ -436,7 +436,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT03235479",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:34+00:00"
     },
     {
       "event_date": "2018-01-22",
@@ -451,7 +451,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT01597193",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:34+00:00"
     },
     {
       "event_date": "2018-01-26",
@@ -466,7 +466,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT03235479",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:34+00:00"
     },
     {
       "event_date": "2018-03-13",
@@ -481,7 +481,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT01865786",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2018-03-13",
@@ -496,7 +496,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT01865786",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2018-07-25",
@@ -511,7 +511,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT03273842",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:34+00:00"
     },
     {
       "event_date": "2018-07-25",
@@ -526,7 +526,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT03273842",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:34+00:00"
     },
     {
       "event_date": "2018-08-01",
@@ -541,7 +541,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT05338476",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:34+00:00"
     },
     {
       "event_date": "2018-09-18",
@@ -556,7 +556,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT05338476",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:34+00:00"
     },
     {
       "event_date": "2018-11-07",
@@ -571,7 +571,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT02613871",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2018-11-12",
@@ -586,7 +586,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT02868242",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2018-11-16",
@@ -601,7 +601,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT03571607",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:34+00:00"
     },
     {
       "event_date": "2018-11-16",
@@ -616,7 +616,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT03571607",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:34+00:00"
     },
     {
       "event_date": "2019-02-03",
@@ -631,7 +631,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT02868242",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2019-03-17",
@@ -646,7 +646,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT03782662",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:34+00:00"
     },
     {
       "event_date": "2019-03-17",
@@ -661,7 +661,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT03782662",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:34+00:00"
     },
     {
       "event_date": "2019-03-21",
@@ -676,7 +676,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT03482011",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:34+00:00"
     },
     {
       "event_date": "2019-04-23",
@@ -691,7 +691,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT01803282",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2019-04-23",
@@ -706,7 +706,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT01803282",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2019-04-26",
@@ -721,7 +721,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT03559088",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:34+00:00"
     },
     {
       "event_date": "2019-04-26",
@@ -736,7 +736,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT03559088",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:34+00:00"
     },
     {
       "event_date": "2019-06-25",
@@ -751,7 +751,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT03916406",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:34+00:00"
     },
     {
       "event_date": "2019-06-25",
@@ -766,7 +766,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT03916406",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:34+00:00"
     },
     {
       "event_date": "2019-10-30",
@@ -781,7 +781,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT03449446",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2019-11-19",
@@ -796,7 +796,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT03449446",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2019-12-12",
@@ -811,7 +811,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT03615066",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2020-01-06",
@@ -826,7 +826,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT03830281",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:34+00:00"
     },
     {
       "event_date": "2020-01-06",
@@ -841,7 +841,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT03830281",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:34+00:00"
     },
     {
       "event_date": "2020-01-16",
@@ -856,7 +856,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT03482011",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:34+00:00"
     },
     {
       "event_date": "2020-01-30",
@@ -871,7 +871,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT01799889",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2020-05-05",
@@ -886,7 +886,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT03597282",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2020-05-13",
@@ -901,7 +901,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT02316457",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2020-08-11",
@@ -916,7 +916,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT03597282",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2020-11-12",
@@ -931,7 +931,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT04211909",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2020-11-12",
@@ -946,7 +946,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT04211909",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2021-02-22",
@@ -961,7 +961,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT01515306",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:34+00:00"
     },
     {
       "event_date": "2021-04-12",
@@ -976,7 +976,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT03615066",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2021-06-11",
@@ -991,7 +991,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT02951364",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2021-06-11",
@@ -1006,7 +1006,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT02951364",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2021-06-30",
@@ -1021,7 +1021,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT04380701",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2021-07-22",
@@ -1036,7 +1036,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT04713553",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2021-07-22",
@@ -1051,7 +1051,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT04713553",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2021-11-25",
@@ -1066,7 +1066,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT04588480",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2021-11-25",
@@ -1081,7 +1081,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT04588480",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2021-12-01",
@@ -1096,7 +1096,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT04816669",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2021-12-02",
@@ -1111,7 +1111,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT04816669",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2022-04-13",
@@ -1126,7 +1126,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT04380701",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2022-04-28",
@@ -1141,7 +1141,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT04591626",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:34+00:00"
     },
     {
       "event_date": "2022-04-28",
@@ -1156,7 +1156,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT04591626",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:34+00:00"
     },
     {
       "event_date": "2022-05-13",
@@ -1171,7 +1171,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT04875533",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:34+00:00"
     },
     {
       "event_date": "2022-05-13",
@@ -1186,7 +1186,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT04875533",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:34+00:00"
     },
     {
       "event_date": "2022-05-27",
@@ -1201,7 +1201,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT04798586",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:34+00:00"
     },
     {
       "event_date": "2022-06-09",
@@ -1216,7 +1216,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT02984020",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:34+00:00"
     },
     {
       "event_date": "2022-06-09",
@@ -1231,7 +1231,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT02984020",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:34+00:00"
     },
     {
       "event_date": "2022-07-15",
@@ -1246,7 +1246,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT04754594",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2022-07-15",
@@ -1261,7 +1261,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT04754594",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2022-10-05",
@@ -1276,7 +1276,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT05310084",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2022-10-05",
@@ -1291,7 +1291,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT05310084",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2022-11-03",
@@ -1306,7 +1306,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT05469126",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:34+00:00"
     },
     {
       "event_date": "2022-11-03",
@@ -1321,7 +1321,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT05469126",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:34+00:00"
     },
     {
       "event_date": "2023-02-10",
@@ -1336,7 +1336,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT04368728",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2023-02-10",
@@ -1351,7 +1351,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT04368728",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2023-05-17",
@@ -1366,7 +1366,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT02316457",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2023-05-17",
@@ -1381,7 +1381,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT04798586",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:34+00:00"
     },
     {
       "event_date": "2023-06-20",
@@ -1396,7 +1396,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT02410733",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2023-06-20",
@@ -1411,7 +1411,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT02410733",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2023-08-16",
@@ -1426,7 +1426,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT05004181",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2023-10-04",
@@ -1441,7 +1441,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT04816643",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2023-10-04",
@@ -1456,7 +1456,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT05004181",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2023-12-08",
@@ -1471,7 +1471,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT04816643",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2023-12-19",
@@ -1486,7 +1486,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT05052996",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2024-01-24",
@@ -1501,7 +1501,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT06086340",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:34+00:00"
     },
     {
       "event_date": "2024-01-24",
@@ -1516,7 +1516,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT06086340",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:34+00:00"
     },
     {
       "event_date": "2024-01-25",
@@ -1531,7 +1531,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT04526899",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2024-02-23",
@@ -1546,7 +1546,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT05581641",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2024-03-26",
@@ -1561,7 +1561,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT05472038",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2024-03-26",
@@ -1576,7 +1576,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT05472038",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2024-05-15",
@@ -1591,7 +1591,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT04281485",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:34+00:00"
     },
     {
       "event_date": "2024-05-28",
@@ -1606,7 +1606,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT04455620",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2024-05-28",
@@ -1621,7 +1621,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT04455620",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2024-06-03",
@@ -1636,7 +1636,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT03580668",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2024-06-03",
@@ -1651,7 +1651,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT03580668",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2024-07-18",
@@ -1666,7 +1666,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT05760300",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2024-07-23",
@@ -1681,7 +1681,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT05760300",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2024-09-06",
@@ -1696,7 +1696,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT05581641",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2024-09-18",
@@ -1711,7 +1711,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT06069778",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2024-09-18",
@@ -1726,7 +1726,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT06069778",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2024-11-22",
@@ -1741,7 +1741,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT05541861",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2024-11-22",
@@ -1756,7 +1756,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT05541861",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2024-11-26",
@@ -1771,7 +1771,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT06178991",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2024-11-26",
@@ -1786,7 +1786,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT06178991",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2025-01-29",
@@ -1801,7 +1801,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT06104306",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2025-03-13",
@@ -1816,7 +1816,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT05997290",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2025-03-13",
@@ -1831,7 +1831,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT05997290",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2025-03-26",
@@ -1846,7 +1846,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT04625205",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2025-03-26",
@@ -1861,7 +1861,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT04625205",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2025-04-23",
@@ -1876,7 +1876,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT06104306",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2025-05-28",
@@ -1891,7 +1891,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT06069544",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2025-06-06",
@@ -1906,7 +1906,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT05537038",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2025-06-11",
@@ -1921,7 +1921,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT06074562",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:34+00:00"
     },
     {
       "event_date": "2025-06-11",
@@ -1936,7 +1936,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT06074562",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:34+00:00"
     },
     {
       "event_date": "2025-06-18",
@@ -1951,7 +1951,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT07117799",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:34+00:00"
     },
     {
       "event_date": "2025-07-11",
@@ -1966,7 +1966,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT07117799",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:34+00:00"
     },
     {
       "event_date": "2025-07-15",
@@ -1981,7 +1981,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT06683352",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2025-07-15",
@@ -1996,7 +1996,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT06683352",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2025-07-31",
@@ -2011,7 +2011,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT06469164",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2025-07-31",
@@ -2026,7 +2026,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT06469164",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2025-09-02",
@@ -2041,7 +2041,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT06991179",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:34+00:00"
     },
     {
       "event_date": "2025-09-02",
@@ -2056,7 +2056,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT06991179",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:34+00:00"
     },
     {
       "event_date": "2025-09-29",
@@ -2071,7 +2071,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT05502341",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2025-11-24",
@@ -2086,7 +2086,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT04526899",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2025-12-08",
@@ -2101,7 +2101,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT05537038",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2025-12-17",
@@ -2116,7 +2116,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT06821061",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2025-12-17",
@@ -2131,7 +2131,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT06821061",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2025-12-22",
@@ -2146,7 +2146,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT05262530",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2025-12-22",
@@ -2161,7 +2161,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT05262530",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2026-03-20",
@@ -2176,7 +2176,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT06069544",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2026-04-16",
@@ -2191,7 +2191,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT05983133",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:34+00:00"
     },
     {
       "event_date": "2026-04-16",
@@ -2206,7 +2206,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT05983133",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:34+00:00"
     },
     {
       "event_date": "2026-04-17",
@@ -2221,7 +2221,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT06630286",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2026-05-01",
@@ -2236,7 +2236,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT07069309",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2026-05-01",
@@ -2251,7 +2251,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT07069309",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2026-05-06",
@@ -2266,7 +2266,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT06060665",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2026-05-06",
@@ -2281,7 +2281,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT06060665",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2026-05-11",
@@ -2296,7 +2296,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT06031415",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2026-05-11",
@@ -2311,7 +2311,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT06031415",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2026-06-22",
@@ -2326,7 +2326,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT04618913",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:34+00:00"
     },
     {
       "event_date": "2026-06-22",
@@ -2341,7 +2341,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT04618913",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:34+00:00"
     },
     {
       "event_date": "2026-07-13",
@@ -2356,7 +2356,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT05630352",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2026-07-13",
@@ -2371,7 +2371,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT05630352",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2026-08-31",
@@ -2386,7 +2386,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT07543380",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:34+00:00"
     },
     {
       "event_date": "2026-08-31",
@@ -2401,7 +2401,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT07543380",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:34+00:00"
     },
     {
       "event_date": "2026-12-30",
@@ -2416,7 +2416,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT05573555",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:34+00:00"
     },
     {
       "event_date": "2026-12-30",
@@ -2431,7 +2431,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT05573555",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:34+00:00"
     },
     {
       "event_date": "2027-01-24",
@@ -2446,7 +2446,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT05032976",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:34+00:00"
     },
     {
       "event_date": "2027-01-24",
@@ -2461,7 +2461,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT05032976",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:34+00:00"
     },
     {
       "event_date": "2027-06-02",
@@ -2476,7 +2476,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT06564389",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:34+00:00"
     },
     {
       "event_date": "2027-06-02",
@@ -2491,7 +2491,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT06564389",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:34+00:00"
     },
     {
       "event_date": "2027-07-04",
@@ -2506,7 +2506,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT04227847",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:34+00:00"
     },
     {
       "event_date": "2027-08-20",
@@ -2521,7 +2521,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT07730450",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2027-08-20",
@@ -2536,7 +2536,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT07730450",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:33+00:00"
     },
     {
       "event_date": "2028-01-31",
@@ -2551,7 +2551,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT07391761",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:34+00:00"
     },
     {
       "event_date": "2028-01-31",
@@ -2566,7 +2566,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT07391761",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:34+00:00"
     },
     {
       "event_date": "2028-07-03",
@@ -2581,7 +2581,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT04227847",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:34+00:00"
     },
     {
       "event_date": "2031-02-22",
@@ -2596,7 +2596,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT07782450",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:34+00:00"
     },
     {
       "event_date": "2031-02-22",
@@ -2611,7 +2611,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT07782450",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:34+00:00"
     },
     {
       "event_date": "2039-04-15",
@@ -2626,7 +2626,7 @@
       "source": "ClinicalTrials.gov",
       "source_url": "https://clinicaltrials.gov/study/NCT04281485",
       "confidence_level": "A",
-      "last_updated_at": "2026-08-29T09:05:18+00:00"
+      "last_updated_at": "2026-08-30T08:20:34+00:00"
     }
   ]
 }
